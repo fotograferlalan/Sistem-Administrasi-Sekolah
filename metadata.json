@@ -1,0 +1,8 @@
+{
+  "name": "Sistem Administrasi Sekolah",
+  "description": "Aplikasi tata usaha sekolah dasar untuk pembuatan SK Pengangkatan Guru, SK Pembagian Tugas Mengajar, Surat Mutasi, Surat Siap Terima Siswa, Surat Pindah Sekolah, dan arsip surat dinas SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
